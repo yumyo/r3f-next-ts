@@ -1,6 +1,7 @@
 # r3f-next-ts
 
-A playground for my ThreeJS Course training.
+A playground for my ThreeJS Course training:
+[Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/)
 
 > This project was bootstrapped with [`create-r3f-app`](https://github.com/utsuboco/create-r3f-app)
 
